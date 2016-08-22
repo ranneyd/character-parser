@@ -1,6 +1,6 @@
 'use strict';
 
-var objIsRegex = require('is-regex');
+/* var objIsRegex = require('is-regex'); */
 
 exports = (module.exports = parse);
 
